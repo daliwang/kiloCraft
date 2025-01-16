@@ -1,0 +1,15 @@
+[submodule "NADaymet/NA_inputGEN"]
+	path = NADaymet/NA_inputGEN
+	url = https://github.com/daliwang/NA_inputGEN
+[submodule "NADaymet/NA_forcingGEN"]
+	path = NADaymet/NA_forcingGEN
+	url = https://github.com/daliwang/NA_forcingGEN
+[submodule "NADaymet/NA_domainGEN"]
+	path = NADaymet/NA_domainGEN
+	url = https://github.com/daliwang/NA_domainGEN
+[submodule "NADaymet/NA_surfdataGEN"]
+	path = NADaymet/NA_surfdataGEN
+	url = https://github.com/daliwang/NA_surfdataGEN
+[submodule "TESSFA/TES_inputGEN"]
+	path = TESSFA/TES_inputGEN
+	url = git@github.com:daliwang/TES_inputGEN.git
